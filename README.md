@@ -2,7 +2,7 @@
 
 Solutions to the readers-writers concurrency problem.
 
-Youtube video: 
+Youtube video: https://youtu.be/8upXcDreodA
 
 Resources:
 * https://www.youtube.com/watch?v=MqnpIwN7dz0 
